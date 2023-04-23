@@ -1,0 +1,8 @@
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\BankamatikUygulamasi\bin\Debug\BankamatikUygulamasi.exe.config
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\BankamatikUygulamasi\bin\Debug\BankamatikUygulamasi.exe
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\BankamatikUygulamasi\bin\Debug\BankamatikUygulamasi.pdb
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\BankamatikUygulamasi\obj\Debug\BankamatikUygulamasi.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\BankamatikUygulamasi\obj\Debug\BankamatikUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\BankamatikUygulamasi\obj\Debug\BankamatikUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\BankamatikUygulamasi\obj\Debug\BankamatikUygulamasi.exe
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\BankamatikUygulamasi\obj\Debug\BankamatikUygulamasi.pdb
